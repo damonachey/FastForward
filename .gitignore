@@ -1,0 +1,14 @@
+Debug/
+Release/
+bin/
+obj/
+.vs/
+*.zip
+TestResults/
+*.suo
+*.user
+nunit-result.xml
+__pycache__
+_Resharper*
+packages/
+node_modules/
